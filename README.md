@@ -38,7 +38,7 @@ Discord.js Ticket System
 ### Commands
 * Ticketpanel | This creates a panel with a button! | [Example](https://github.com/hav0ky/Ticket-System-Discord.js/blob/master/data/ticketpanel.PNG?raw=true)
 * Add | Add a mentioned user to the ticket | [Example](https://github.com/hav0ky/Ticket-System-Discord.js/blob/master/data/add.PNG?raw=true)
-* Remove  Remove the mentioned user form the channel | [Example](https://github.com/hav0ky/Ticket-System-Discord.js/blob/master/data/remove.PNG?raw=true)
+* Remove | Remove the mentioned user form the channel | [Example](https://github.com/hav0ky/Ticket-System-Discord.js/blob/master/data/remove.PNG?raw=true)
 
 ### Example config.json
 ```js
