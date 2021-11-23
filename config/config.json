@@ -1,0 +1,8 @@
+{
+    "token": "BOT_Token",
+    "prefix": "!",
+    "parentCategory": "Category ID (where you want the tickets to be created)",
+    "authorId": "User Id of member which will have access to ticket panel",
+    "roleName": "Moderators",
+    "channelId" : "Channel ID (where you want the logs)"
+  }
